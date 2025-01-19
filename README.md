@@ -93,7 +93,5 @@ pip install -r requirements.txt
 
 This structured format ensures clarity for training machine learning models to recognize and extract relevant entities from Amharic e-commerce data.
 
----
-
 ## **Contact**
 For more information or inquiries about EthioMart, feel free to reach out via the project repository or the contact details provided.
