@@ -80,7 +80,6 @@ pip install -r requirements.txt
 - **`requirements.txt`**: List of required Python libraries.
 
 ---
-
 ### **Sample Entity Labels in CoNLL Format**
 ```plaintext
 አንድ B-PRODUCT
@@ -90,7 +89,6 @@ pip install -r requirements.txt
 አዲስ B-LOC
 አበባ I-LOC
 ```
-
 This structured format ensures clarity for training machine learning models to recognize and extract relevant entities from Amharic e-commerce data.
 
 ## **Contact**
