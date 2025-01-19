@@ -97,4 +97,3 @@ This structured format ensures clarity for training machine learning models to r
 
 ## **Contact**
 For more information or inquiries about EthioMart, feel free to reach out via the project repository or the contact details provided.
-
